@@ -52,4 +52,7 @@ tree.addNode(tree.root, 6)
 tree.addNode(tree.root, 15)
 tree.addNode(tree.root, 14)
 tree.addNode(tree.root, 16)
+
 tree.postOrder(tree.root)
+tree.inOrder(tree.root)
+tree.preOrder(tree.root)
